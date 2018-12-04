@@ -1,6 +1,4 @@
-# Building TensorFlow for Cyclone V SoC FPGA: a Step-By-Step Guide
-
-_[Back to readme](README.md)_
+# Building TensorFlow for Terasic DE-10 Nano: a Step-By-Step Guide
 
 ## What You Need
 
