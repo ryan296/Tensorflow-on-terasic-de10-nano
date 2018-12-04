@@ -344,7 +344,7 @@ bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
 ```
 This one will not take too much time and you can install your python package form `/tmp/tensorflow_pkg` directory :
 ```shell
-pip3 install --user /tmp/tensorflow_pkg/ensorflow-1.6.0-cp35-cp35m-linux_armv7l.whl
+pip3 install /tmp/tensorflow_pkg/tensorflow-1.9.0-cp35-cp35m-linux_armv7l.whl
 ```
 And your TensorFlow is ready to use.
 
